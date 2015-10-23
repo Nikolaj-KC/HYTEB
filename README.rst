@@ -5,9 +5,8 @@ This document aims at guiding the documenting and the usage.
 
 What is HYTEB?
 --------------
-HYTEB is a set of python modules for uesr-friendly analysis of geophysical data worth for improving the predictive capability of groundwater models.
+HYTEB is a set of python modules for user-friendly software for analysing the data worth of geophysics (electromagnetic data) for improving the predictive capability of groundwater models.
 
-  
 Authors
 -------
 ``HYTEB`` is developed by Nikolaj Kruse Christensen as part as his Ph.D. project, under
@@ -18,38 +17,18 @@ party developers. This document is a work in progress.
 Contact: Nikolaj Kruse Christensen, `<http://pure.au.dk/portal/da/persons/id(9402400e-29ed-465f-904d-85c0c49e217e).html>`_.
 `<nikolaj.kruse@geo.au.dk>`_
 
+Documentation
+-------------
 
-Python API
-==========
-The Python module ``HYTEB`` is intended as the main interface to ...
-It is recommended to use this module for simulation setup,
-simulation execution, and analysis of the simulation output data.
+Get started with HYTEB
+----------------------
 
-In order to use the API, the file ``HYTEB.py`` must be placed in the same
-directory as the Python files. 
-Contents:
+Examples
+--------
 
-.. toctree::
-   :maxdepth: 4
-   
-   hydro_module
-   geophys_module
-   inversion_module
-   load_write
-   
-
-Sample usage
-------------
-Below is a simple, annotated example of how to setup, execute, and post-process
-a ``sphere`` simulation.  The example is also found in the ``python/`` folder as
-``collision.py``.
+Links
+-----
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
