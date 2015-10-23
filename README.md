@@ -23,6 +23,8 @@ mail to - nikolaj.kruse@geo.au.dk
 Documentation
 -------------
 The goal is selv-documenting code in sphinx, so no manual will be available.
+The documentation is by default available in the html.
+
 
 Get started with HYTEB
 ----------------------
@@ -32,11 +34,14 @@ I recommend the Anaconda scientific python distribution , which includes the dep
 
 [https://store.continuum.io/cshop/anaconda/](https://store.continuum.io/cshop/anaconda/])
 
-Once installed, clone (or download) the ``HYTEB`` repository.
+Once installed, clone (or download) the ``HYTEB`` repository. 
 
 
 Examples
 --------
+See 
+
+http://www.hydrol-earth-syst-sci-discuss.net/12/9599/2015/hessd-12-9599-2015.pdf
 
 Links
 =====
