@@ -5,7 +5,7 @@ This document aims at guiding the documenting and the usage.
 
 What is HYTEB?
 --------------
-HYTEB is a set of python modules for user-friendly software for analysing the data worth of geophysics (electromagnetic data) for improving the predictive capability of groundwater models.
+``HYTEB`` is a set of python modules for user-friendly software for analysing the data worth of geophysics (electromagnetic data) for improving the predictive capability of groundwater models.
 
 Authors
 -------
@@ -24,11 +24,13 @@ The goal is selv-documenting code in sphinx, so no manual will be available.
 
 Get started with HYTEB
 ----------------------
-I recommend the Anaconda scientific python distribution , which includes the dependencies for ´´HYTEB´´.
+We have only uploaded software that we developed. Software developed by others, for example AarhusInv, PEST, MODFLOW, TPROGS, BLOCKSIS, etc. must be purchased or downloaded from websites of the respective developers.
+
+I recommend the Anaconda scientific python distribution , which includes the dependencies for ``HYTEB``.
 
 [https://store.continuum.io/cshop/anaconda/](https://store.continuum.io/cshop/anaconda/])
 
-Once installed, clone (or download) the pyemu repository and run the setup.py script from the command prompt:
+Once installed, clone (or download) the ``HYTEB`` repository.
 
 
 Examples
