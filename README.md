@@ -24,9 +24,6 @@ In order to use the API, the file ``HYTEB.py`` must be placed in the same
 directory as the Python files. 
 Contents:
 
-.. toctree::
-   :maxdepth: 4
-   
    hydro_module
    geophys_module
    inversion_module
