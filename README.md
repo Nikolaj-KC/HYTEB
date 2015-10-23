@@ -20,6 +20,7 @@ Contact:
 
 Documentation
 -------------
+The goal is selv-documenting code in sphinx, so no manual will be available.
 
 Get started with HYTEB
 ----------------------
