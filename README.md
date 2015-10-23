@@ -24,6 +24,12 @@ The goal is selv-documenting code in sphinx, so no manual will be available.
 
 Get started with HYTEB
 ----------------------
+I recommend the Anaconda scientific python distribution , which includes the dependencies for ´´HYTEB´´.
+
+[https://store.continuum.io/cshop/anaconda/](https://store.continuum.io/cshop/anaconda/])
+
+Once installed, clone (or download) the pyemu repository and run the setup.py script from the command prompt:
+
 
 Examples
 --------
