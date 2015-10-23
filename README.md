@@ -16,8 +16,8 @@ party developers. This document is a work in progress.
 
 Contact
 -------
-Nikolaj Kruse Christensen - (http://pure.au.dk/portal/da/persons/id(9402400e-29ed-465f-904d-85c0c49e217e).html/).
-mail to - (nikolaj.kruse@geo.au.dk)
+Nikolaj Kruse Christensen - http://pure.au.dk/portal/da/persons/id(9402400e-29ed-465f-904d-85c0c49e217e).html/
+mail to - nikolaj.kruse@geo.au.dk
 
 Documentation
 -------------
