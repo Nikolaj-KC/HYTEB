@@ -30,10 +30,18 @@ Examples
 Links
 =====
 [PEST - http://www.pesthomepage.org/](http://www.pesthomepage.org/)
-
 [AarhusInv - http://hgg.au.dk/software/aarhusinv/](http://hgg.au.dk/software/aarhusinv/)
 
 References
 ==========
+Doherty, J., 2010a, PEST, Model-independent parameter estimation—User manual (5th ed., with slight additions):
+Brisbane, Australia, Watermark Numerical Computing.
 
+Doherty, J., 2010b, Addendum to the PEST manual: Brisbane, Australia, Watermark Numerical Computing.
 
+Publications
+============
+``HYTEB`` has been used to produce results in the following scientific
+publications and presentations:
+
+Christensen, N. K., Christensen, S., and Ferre, T. P. A.: A framework for testing the use of electric and electromagnetic data to reduce the prediction error of groundwater models, Hydrol. Earth Syst. Sci. Discuss., 12, 9599-9653, doi:10.5194/hessd-12-9599-2015, 2015
