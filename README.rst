@@ -27,10 +27,12 @@ Examples
 --------
 
 Links
------
+=====
 [PEST - http://www.pesthomepage.org/](http://www.pesthomepage.org/)
 
 [AarhusInv - http://hgg.au.dk/software/aarhusinv/](http://hgg.au.dk/software/aarhusinv/)
 
+References
+==========
 
 
