@@ -44,6 +44,8 @@ Links
 
 [PEST - http://www.pesthomepage.org/](http://www.pesthomepage.org/)
 
+[T-PROGS - http://www.aquaveo.com/software/gms-tprogs](http://www.aquaveo.com/software/gms-tprogs)
+
 References
 ==========
 Doherty, J., 2010a, PEST, Model-independent parameter estimation—User manual (5th ed., with slight additions):
