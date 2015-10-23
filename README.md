@@ -1,7 +1,4 @@
-# HYTEB
-HYdrogeophysical TEst-Bench
-
-
+# HYTEB (HYdrogeophysical TEst-Bench)
 
 Welcome to HYTEB's documentation!
 =================================
@@ -17,8 +14,8 @@ Contact: Nikolaj Kruse Christensen, `<http://pure.au.dk/portal/da/persons/id(940
 `<nikolaj.kruse@geo.au.dk>`_
 
 
-Python API
-==========
+Python modules
+==============
 The Python module ``HYTEB`` is intended as the main interface to ...
 It is recommended to use this module for simulation setup,
 simulation execution, and analysis of the simulation output data.
