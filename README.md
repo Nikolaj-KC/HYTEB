@@ -38,9 +38,11 @@ Examples
 
 Links
 =====
-[PEST - http://www.pesthomepage.org/](http://www.pesthomepage.org/)
-
 [AarhusInv - http://hgg.au.dk/software/aarhusinv/](http://hgg.au.dk/software/aarhusinv/)
+
+[MODFLOW - http://water.usgs.gov/ogw/modflow/MODFLOW.html](http://water.usgs.gov/ogw/modflow/MODFLOW.html)
+
+[PEST - http://www.pesthomepage.org/](http://www.pesthomepage.org/)
 
 References
 ==========
