@@ -22,8 +22,9 @@ simulation execution, and analysis of the simulation output data.
 
 In order to use the API, the file ``HYTEB.py`` must be placed in the same
 directory as the Python files. 
-Contents:
 
+Contents:
+---------
    hydro_module
    geophys_module
    inversion_module
