@@ -1,13 +1,15 @@
-.. HYTEB documentation master file, created by
-   sphinx-quickstart on Wed Aug 20 10:09:33 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to HYTEB's documentation!
 =================================
 This is the official documentation for the ``HYTEB``.
-This document aims at guiding the documenting andthe usage.
+This document aims at guiding the documenting and the usage.
 
+What is HYTEB?
+--------------
+HYTEB is a set of python modules for uesr-friendly analysis of geophysical data worth for improving the predictive capability of groundwater models.
+
+  
+Authors
+-------
 ``HYTEB`` is developed by Nikolaj Kruse Christensen as part as his Ph.D. project, under
 supervision of Steen Christensn, all of the Department
 of Geoscience, Aarhus University, Denmark. The author welcomes interested third
