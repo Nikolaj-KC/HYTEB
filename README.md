@@ -44,9 +44,9 @@ See the paper in HESSD for a description of the elements in HYTEB and examples f
 
 http://www.hydrol-earth-syst-sci-discuss.net/12/9599/2015/hessd-12-9599-2015.pdf
 
-In the paper 3 different hydrogeophysical inversion approaches are compared (Hydrogeological inversion, sequential hydrogeophysical inversion, joint hydrogeophysical inversion). 
+In the paper 3 different inversion approaches are compared (Hydrogeological inversion, sequential hydrogeophysical inversion, joint hydrogeophysical inversion). 
 
-For an example for joint inversion see: [main_HYTEB_joint_inversion.py](https://github.com/Nikolaj-KC/HYTEB/blob/master/main_HYTEB_joint_inversion.py) 
+For an example for the HYTEB setup for doinf joint hydrogeophysical inversion see: [main_HYTEB_joint_inversion.py](https://github.com/Nikolaj-KC/HYTEB/blob/master/main_HYTEB_joint_inversion.py) 
 
 
 Links
