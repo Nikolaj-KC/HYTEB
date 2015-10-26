@@ -1,4 +1,4 @@
-Welcome to HYTEB's documentation!
+Welcome to the HYTEB documentation!
 =================================
 This is the official documentation for the ``HYTEB``.
 This document aims at guiding the documenting and the usage.
