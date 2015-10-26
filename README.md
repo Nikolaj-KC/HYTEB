@@ -63,9 +63,9 @@ Links
 
 References
 ==========
-[Auken et al. 2014 - http://hgg.au.dk/fileadmin/www.gfs.au.dk/AUKEN2014D.pdf](http://hgg.au.dk/fileadmin/www.gfs.au.dk/AUKEN2014D.pdf)
+[Auken et al. 2014 - An overview of a highly versatile forward and stable inverse algorithm for airborne, ground-based and borehole electromagnetic and electric data](http://hgg.au.dk/fileadmin/www.gfs.au.dk/AUKEN2014D.pdf)
 
-[Auken et al. 2015 - http://www.hgg.geo.au.dk/HGGsoftware/em1dinv/em1dinv_manual.pdf](http://www.hgg.geo.au.dk/HGGsoftware/em1dinv/em1dinv_manual.pdf)
+[Auken et al. 2015 - Manual for the inversion program AarhusInv](http://www.hgg.geo.au.dk/HGGsoftware/em1dinv/em1dinv_manual.pdf)
 
 Doherty, J., 2010a, PEST, Model-independent parameter estimation—User manual (5th ed., with slight additions):
 Brisbane, Australia, Watermark Numerical Computing.
