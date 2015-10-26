@@ -30,16 +30,20 @@ Get started with HYTEB
 ----------------------
 We have only uploaded software that we developed. Software developed by others, for example AarhusInv, PEST, MODFLOW, TPROGS, BLOCKSIS, etc. must be purchased or downloaded from websites of the respective developers.
 
-I recommend the Anaconda scientific python distribution , which includes the dependencies for ``HYTEB``.
+HYTEB is written in the python 2.7 syntax.
+I recommend the Anaconda scientific python distribution , which includes the dependencies for ``HYTEB``. 
 
 [https://store.continuum.io/cshop/anaconda/](https://store.continuum.io/cshop/anaconda/])
 
 Once installed, clone (or download) the ``HYTEB`` repository. 
 
-
 Examples
 --------
-See 
+
+See the paper in HESSD for a description of the elements in HYTEB and examples for:
+Hydrogeological inversion (HI)              - model construction and inversion on hydrological data only.
+Sequential hydrogeophysical inversion (SHI) - geophysical data are inverted independent of the hydrologic data or model.  The inverted geophysical properties are then used to zonate or directly parameterize the hydrologic model
+Joint hydrogeophysical inversion (JHI)      - I is typically done using a relationship between hydraulic conductivity and electrical resistivity
 
 http://www.hydrol-earth-syst-sci-discuss.net/12/9599/2015/hessd-12-9599-2015.pdf
 
