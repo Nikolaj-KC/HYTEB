@@ -163,6 +163,5 @@ for i in realization:
     # --- update estimated parameter file and hydraulic responses ---
     invs.replace_NOPTMAX(0)
     
-    # --- run hydraulic model prediction --- 
+    # --- run hydraulic model prediction and copy results to folder (see ini-file) --- 
     hydro.run_prediction(i,run_type='calib')   
-    
