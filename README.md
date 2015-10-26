@@ -44,13 +44,9 @@ See the paper in HESSD for a description of the elements in HYTEB and examples f
 
 http://www.hydrol-earth-syst-sci-discuss.net/12/9599/2015/hessd-12-9599-2015.pdf
 
+In the paper 3 different hydrogeophysical inversion approaches are compared (Hydrogeological inversion, sequential hydrogeophysical inversion, joint hydrogeophysical inversion). 
 
-Hydrogeological inversion (HI)              - model construction and inversion on hydrological data only.
-
-Sequential hydrogeophysical inversion (SHI) - geophysical data are inverted independent of the hydrologic data or model.  The inverted geophysical properties are then used to zonate or directly parameterize the hydrologic model
-
-Joint hydrogeophysical inversion (JHI)      - I is typically done using a relationship between hydraulic conductivity and electrical resistivity
-
+For an example for joint inversion see main_HYTEB_joint.py
 
 
 Links
